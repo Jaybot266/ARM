@@ -1,6 +1,6 @@
 public class subprogram {
 
-    static final int iterations = 10000;
+    static final int iterations = 100000;
 
     static int result = 0;
     
